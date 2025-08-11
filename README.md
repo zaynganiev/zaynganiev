@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zayn Ganiev</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<h3 align="center">A passionate student and developer from Canada</h3>
 
 - 🔭 I’m currently working on **a Weather Application**
 
